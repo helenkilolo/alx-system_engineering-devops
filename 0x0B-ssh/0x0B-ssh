@@ -1,6 +1,0 @@
-#!/usr/bin/env bash
-
-ssh ubuntu@34.207.237.96 -i ~/.ssh/school
-mkdir -p ~/.ssh && touch ~/.ssh/authorized_keys
-chmod 700 ~/.ssh && chmod 600 ~/.ssh/authorized_keys
-echo ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDmfhkAb/aSbGIVDSY8dRUbu3/dQKLQQhokVlnEWFqKVy36nIQvBrQ6Vod0AU2RvicbRvBJYz0nFPTL09B7N8yCEhQ5b1UipATAnje/XoX4C8BnsxHKfyNVtB2PqUhW5V5KFY+BLoDLjkLLp9sSy7b6tDZSk+1z9dI6lcmyEOgQSWbTlT1de/uwD9iI6puKEC3v260yidKBxGDVRk+shAuorKhhOLAZkm3qFbGOKJlUF/CJHQsdnrUfeutRav460208fL+Fqulf1U+iMBjAOz1ff2/suCq58zCIUxX+yLFOsk4CeI1LkqZNsZkCDg5mX6j0Gt33yXBsPWmqnOM/MbRt/oQ/ho7Nk5YR248Jk7BUui90yk7n92K3Z8OXsDPwdbUPuLiO/+SYjgTDRHb+t+G10frA/squFgyVE5eI5+UnPbsVlDLJBt+Jwjc2REmokF4+s6FfNBXQTOwrUkB2zCU65ZYqliv96aHZYQm/8IaR4jK0ttnPiw8S6kol7zfufH8= helenkilolo@helenkilolo-HP-Notebook

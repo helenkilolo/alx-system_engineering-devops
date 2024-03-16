@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+0-transfer_file#!/usr/bin/env bash
 # copy a file in the server
 if [ "$#" -lt 3 ]
 then
